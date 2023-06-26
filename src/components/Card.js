@@ -26,7 +26,7 @@ const Card = () => {
           </p>
         </div>
         <div class="px-6 pb-2">
-          <span class="px-3 py-1 text-sm font-semibold text-blue-400 mr-2 mb-2">Learn more</span>
+          <span class="px-3 py-1 text-sm font-semibold text-blue-400 mr-2 mb-5">Learn more</span>
         </div>
     </div>
     )
