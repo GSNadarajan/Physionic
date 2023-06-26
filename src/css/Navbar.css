@@ -1,0 +1,10 @@
+.navDiv{
+    background-image: url('../img/background.jpg');
+    min-height:100vh;
+    margin:0;
+    padding:0;
+    background-attachment: fixed;
+  background-size: cover;
+    
+
+}
