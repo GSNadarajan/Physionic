@@ -1,9 +1,10 @@
 import React from "react";
 
-const Card = () => {
+
+const Reviewcard = () =>{
     return(
-        <div class="max-w-sm rounded overflow-hidden shadow-lg mx-auto">
-        <div className="w-full bg-blue-400 p-8 text-center">
+    <div class="max-w-sm rounded overflow-hidden shadow-lg mx-auto">
+        <div className="w-full p-8 text-center">
            <div className="flex ">
               <span className="bg-white rounded-full p-2">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
@@ -32,4 +33,4 @@ const Card = () => {
     )
 }
 
-export default Card;
+export default Reviewcard;

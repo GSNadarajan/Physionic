@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import Card from "./components/Card";
+import Slides from "./components/Slides";
+import Review from "./components/Review";
 
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
 
   <div>
     <Navbar />
-    <Card />
+    <Slides />
+    <Review />
   </div>
  
   );
