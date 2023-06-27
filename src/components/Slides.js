@@ -7,7 +7,7 @@ const Slides = () =>{
     return(
        <div className="cardDiv md:mt-20 center">
             <div>
-               <h1 className="text-3xl text-center mb-3 mt-7">Leading Machine</h1>
+               <h1 className="text-3xl text-center font-semibold mb-3 mt-7">Leading Machine</h1>
                <p className="text-center">Problems trying to resolve the conflict between</p>
                <p className="text-center">the major of realme classic physics newtonion mechanics</p>
             </div>

@@ -4,6 +4,7 @@ import Slides from "./components/Slides";
 import Review from "./components/Review";
 import Faq from "./components/Faq";
 import Pricing from "./components/Pricing";
+import Getintouch from "./components/Getintouch";
 
 
 function App() {
@@ -14,7 +15,8 @@ function App() {
     <Slides />
     <Review />
     <Faq />
-    <Pricing price1='0' price2='9.99' price3='19.99'/>
+    <Pricing />
+    <Getintouch />
   </div>
  
   );
