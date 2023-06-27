@@ -1,15 +1,10 @@
 import React from "react";
-import Main from "./Main";
+import Main from "../components/Main";
 import '../css/Navbar.css';
 
 const Navbar= () => {
 
-    const navLinks = document.querySelector('.nav-links')
-    const onToggleMenu = (e) =>{
-        console.log("hello man")
-        e.name = e.name === 'menu' ? 'close' : 'menu'
-        navLinks.classNameList.toggle('top-[9%]')
-    }
+  
     return(
         <div className="navDiv bg-red-200">
             <header className="">

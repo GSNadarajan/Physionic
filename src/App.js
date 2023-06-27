@@ -5,6 +5,7 @@ import Review from "./components/Review";
 import Faq from "./components/Faq";
 import Pricing from "./components/Pricing";
 import Getintouch from "./components/Getintouch";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
     <Faq />
     <Pricing />
     <Getintouch />
+    <Footer />
   </div>
  
   );
