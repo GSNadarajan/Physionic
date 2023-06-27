@@ -2,7 +2,7 @@ import React from "react";
 
 const Main = () => {
     return(
-        <div className="div flex mt-32 md:mt-48 flex-wrap">
+        <div className="div flex mt-28 md:mt-32 flex-wrap">
             <div className="w-full md:w-1/2  md:mt-32  text-center">
                 <h1 className="text-2xl md:text-5xl font-bold sm:mr-10 ">Meet the best</h1>
                 <h1 className="mt-1 sm:mt-3 text-2xl md:text-5xl font-bold sm:mr-44 ">Hospital</h1>
