@@ -5,7 +5,7 @@ import '../css/Card.css';
 
 const Pricing = () =>{
     return(
-       <div className="cardDiv md:mt-20 center">
+       <div className="cardDiv md:mt-20 center mb-5">
             <div>
                <h1 className="text-3xl text-center font-semibold mb-3 mt-7">Pricing</h1>
                <p className="text-center">Problems trying to resolve the conflict between</p>
