@@ -40,7 +40,7 @@ const Main = () => {
                         </label>
                          
                         <select id="countries"
-                        class="shadow appearance-none bg-white border text-gray-700 text-sm rounded focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+                        class="shadow appearance-none bg-white border text-gray-700 text-sm rounded focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  dark:border-gray-600  dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
                         <option selected>Please select</option>
                         <option value="U">United States</option>
                         <option value="CA">Canada</option>
